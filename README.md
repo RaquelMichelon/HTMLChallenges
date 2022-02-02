@@ -1,6 +1,6 @@
 # HTML Challenges
 
-The intent of this project is share the progress that I'm having in HTML.
+The intent of this project is share the progress that I'm doing with HTML.
 
 ## 🚀 Tech Glossary
 
