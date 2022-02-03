@@ -14,6 +14,11 @@ It is an HTML page that allows the user to send a message. There are a form with
 
 It is a simple HTML page that allows to see a shopping list and do a check in the box of bought items. 
 
+## 🚀🚀🚀🚀 Literature Quiz
+
+It is an HTML page which asks four questions about world literature. Yes, you can play and then, check the answers here!
+Correct Answers: 1-D ; 2-B ; 3-A ; 4-C.
+
 ## 🛠️ Construído com
 
 * [HTML5](https://www.w3schools.com/html/)
