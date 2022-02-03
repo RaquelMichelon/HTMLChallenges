@@ -27,6 +27,14 @@ It is an HTML page which intents to show a blog post structure: title, links, pa
 
 Developed in Portuguese, it is a directory with six HTML pages. The page "livraria" shows title, image and price information about books. Clicking on the images, the user is redirected to other page that contains a simple review of that book. In each page, there is a link to go back to "livraria";
 
+## 🚀🚀🚀🚀🚀🚀 Etiquette Rules
+
+Developed in Portuguese too, it is a directory with six HTML pages. My intent here was to develop navigation between different pages;
+
+## 🚀🚀🚀🚀🚀🚀🚀 Caffee Menu
+
+Also developed in Portuguese, it is a menu of one coffee shop;
+
 ## 🛠️ Built with
 
 * [HTML5](https://www.w3schools.com/html/)
