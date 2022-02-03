@@ -10,6 +10,10 @@ It is an HTML page that shows technological terms in a link format, and present 
 
 It is an HTML page that allows the user to send a message. There are a form with a tag <legend> to contextualize the user, and some diferent fields to identify the subject of the message, the user and the message properly. Furthermore, there are one checkbox and, of course, the button to send the message. 
 
+## 🚀🚀🚀 Shopping List
+
+It is a simple HTML page that allows to see a shopping list and do a check in the box of bought items. 
+
 ## 🛠️ Construído com
 
 * [HTML5](https://www.w3schools.com/html/)
