@@ -23,17 +23,21 @@ Correct Answers: 1-D ; 2-B ; 3-A ; 4-C.
 
 It is an HTML page which intents to show a blog post structure: title, links, paragraphs, images, and so on.
 
-## 🚀🚀🚀🚀🚀 Library
+## 🚀🚀🚀🚀🚀🚀 Library
 
 Developed in Portuguese, it is a directory with six HTML pages. The page "livraria" shows title, image and price information about books. Clicking on the images, the user is redirected to other page that contains a simple review of that book. In each page, there is a link to go back to "livraria";
 
-## 🚀🚀🚀🚀🚀🚀 Etiquette Rules
+## 🚀🚀🚀🚀🚀🚀🚀 Etiquette Rules
 
 Developed in Portuguese too, it is a directory with six HTML pages. My intent here was to develop navigation between different pages;
 
-## 🚀🚀🚀🚀🚀🚀🚀 Caffee Menu
+## 🚀🚀🚀🚀🚀🚀🚀🚀 Caffee Menu
 
 Also developed in Portuguese, it is a menu of one coffee shop;
+
+## 🚀🚀🚀🚀🚀🚀🚀🚀🚀 Cinema
+
+Developed in Portuguese, it is a menu of movies to watch in a cinema;
 
 ## 🛠️ Built with
 
