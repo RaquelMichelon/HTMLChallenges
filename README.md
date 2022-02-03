@@ -19,6 +19,10 @@ It is a simple HTML page that allows to see a shopping list and do a check in th
 It is an HTML page which asks four questions about world literature. Yes, you can play and then, check the answers here!
 Correct Answers: 1-D ; 2-B ; 3-A ; 4-C.
 
+## 🚀🚀🚀🚀🚀 Blog Post
+
+It is an HTML page which intents to show a blog post structure: title, links, paragraphs, images, and so on. 
+
 ## 🛠️ Construído com
 
 * [HTML5](https://www.w3schools.com/html/)
