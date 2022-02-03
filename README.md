@@ -21,9 +21,13 @@ Correct Answers: 1-D ; 2-B ; 3-A ; 4-C.
 
 ## 🚀🚀🚀🚀🚀 Blog Post
 
-It is an HTML page which intents to show a blog post structure: title, links, paragraphs, images, and so on. 
+It is an HTML page which intents to show a blog post structure: title, links, paragraphs, images, and so on.
 
-## 🛠️ Construído com
+## 🚀🚀🚀🚀🚀 Library
+
+Developed in Portuguese, it is a directory with six HTML pages. The page "livraria" shows title, image and price information about books. Clicking on the images, the user is redirected to other page that contains a simple review of that book. In each page, there is a link to go back to "livraria";
+
+## 🛠️ Built with
 
 * [HTML5](https://www.w3schools.com/html/)
 
